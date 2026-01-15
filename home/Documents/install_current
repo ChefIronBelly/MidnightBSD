@@ -14,7 +14,7 @@ logout
 ****
 as user
 $ doas mport install palemoon geany mc yt-dlp mpg123 gh liberation-fonts-ttf
-scrot freecolor fastfetch
+scrot freecolor fastfetch bash
 
 $ mkdir ~/Source & cd Source
 $ git clone https://github.com/ChefIronBelly/MidnightBSD.git

@@ -13,10 +13,10 @@ bash-5.3.8                    	   4.0	GNU Project's Bourne Again SHell
 brotli-1.1.0,1                	   4.0	Generic-purpose lossless compression algorithm
 ca_root_nss-3.108_1           	   4.0	The root certificate bundle from the Mozilla Project
 cairo-1.18.2,3                	   4.0	Vector graphics library with cross-device output support
-chromium-bin-84.0.4147.135_2  	   4.0	Chromium for FreeBSD
 colord-1.4.7                  	   4.0	Manage color profiles to accurately color input/output devices
 consolekit2-1.2.6             	   4.0	Framework for defining and tracking users
 cups-2.4.14                   	   4.0	Common UNIX Printing System
+curl-8.8.0                    	   4.0	Command line tool and library for transferring data with URLs
 dav1d-1.5.1                   	   4.0	Small and fast AV1 decoder
 dbus-1.16.2_1,1               	   4.0	Message bus system for inter-application communication
 dbus-glib-0.114               	   4.0	GLib bindings for the D-BUS messaging system
@@ -33,7 +33,6 @@ fastfetch-2.44.0              	   4.0	Like neofetch, but much faster because wri
 ffmpeg-6.1.1,1                	   4.0	Realtime audio/video encoder/converter and streaming server
 fftw3-3.3.10                  	   4.0	Fast C routines to compute the Discrete Fourier Transform
 fftw3-float-3.3.10            	   4.0	Fast Discrete Fourier Transform (Single Precision C Routines)
-firefox-freebsd-111_8         	   4.0	Mozilla Firefox for FreeBSD
 flac-1.5.0,1                  	   4.0	Free lossless audio codec
 fontconfig-2.16.0,1           	   4.0	XML-based font configuration API for X Windows
 freecolor-0.9.3               	   4.0	Displays free memory as a bargraph
@@ -224,6 +223,7 @@ libpciaccess-0.18.1           	   4.0	Generic PCI access library
 libplacebo-6.338.2_1          	   4.0	Reusable library for GPU-accelerated video/image rendering
 libportal-0.9.1               	   4.0	GIO-styled async APIs for Flatpak
 libproxy-0.4.18               	   4.0	Library that provides automatic proxy configuration management
+libpsl-0.21.5                 	   4.0	C library to handle the Public Suffix List
 libpthread-stubs-0.4          	   4.0	Weak aliases for pthread functions
 librsvg2-rust-2.54.7_1        	   4.0	Library for parsing and rendering SVG vector-graphic files
 libsecret-0.20.5_3            	   4.0	Library to access the secret service API
@@ -265,7 +265,6 @@ mkfontscale-1.2.3             	   4.0	Creates an index of scalable font files fo
 mpdecimal-4.0.0               	   4.0	C/C++ arbitrary precision decimal floating point libraries
 mpg123-1.26.3                 	   4.0	Command-line player for MPEG Layer 1, 2, and 3 audio files
 ncurses-6.5                   	   4.0	Library for terminal-independent, full-screen output
-netsurf-buildsystem-1.10      	   4.0	NetSurf project buildsystem
 nettle-3.10.1                 	   4.0	Low-level cryptographic library
 noto-basic-2.0                	   4.0	Google Noto Fonts family (Basic)
 nspr-4.36                     	   4.0	Platform-neutral API for system level and libc like functions
@@ -275,10 +274,12 @@ openh264-2.3.0,2              	   4.0	Cisco implementation of H.264 codec
 opus-1.5.2                    	   4.0	IETF audio codec
 orc-0.4.36                    	   4.0	Library and toolset to operate arrays of data
 p11-kit-0.25.5                	   4.0	Library for loading and enumerating of PKCS#11 modules
+p5-Authen-SASL-2.17           	   4.0	Perl5 module for SASL authentication
 p5-Digest-HMAC-1.04           	   4.0	Perl5 interface to HMAC Message-Digest Algorithms
 p5-Error-0.17029              	   4.0	Error/exception handling in object-oriented programming style
 p5-GSSAPI-0.28_2              	   4.0	Perl extension providing access to the GSSAPIv2 library
 p5-IO-Socket-IP-0.42          	   4.0	Drop-in replacement for IO::Socket::INET supporting IPv4 and IPv6
+p5-IO-Socket-SSL-2.089        	   4.0	Perl5 interface to SSL sockets
 p5-Locale-libintl-1.33        	   4.0	Internationalization library for Perl
 p5-Mozilla-CA-20250602        	   4.0	Perl extension for Mozilla CA cert bundle in PEM format
 p5-Net-SSLeay-1.94            	   4.0	Perl5 interface to SSL
