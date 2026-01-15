@@ -2,7 +2,6 @@ Imath-3.1.9                   	   4.0	C++/Python lib of 2D/3D vector, matrix, ma
 abseil-20240722.0             	   4.0	Abseil Common Libraries (C++)
 adwaita-icon-theme-42.0_1     	   4.0	GNOME Symbolic Icons
 alsa-lib-1.2.13               	   4.0	ALSA compatibility library
-amd64-freebsd-sysroot-a2023.0 	   4.0	FreeBSD 12.4-RELEASE amd64 sysroot
 aom-3.9.1                     	   4.0	AV1 reference encoder/decoder
 argp-standalone-1.5.0_1       	   4.0	Standalone version of arguments parsing functions from GLIBC
 at-spi2-core-2.56.2           	   4.0	Assistive Technology Service Provider Interface
@@ -352,7 +351,6 @@ xorg-minimal-7.5.2_2          	   4.0	X.Org minimal distribution metaport
 xorg-server-21.1.20,1         	   4.0	X.Org X server and related programs
 xorgproto-2024.1              	   4.0	X Window System unified protocol definitions
 xprop-1.2.6                   	   4.0	Property displayer for X
-xrandr-1.5.3                  	   4.0	Primitive command line interface to the RandR extension
 xrdb-1.2.1                    	   4.0	X server resource database utility
 xset-1.2.5                    	   4.0	User preference utility for X
 xsetroot-1.1.2                	   4.0	Root window parameter setting utility for X
