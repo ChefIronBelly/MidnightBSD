@@ -1,4 +1,4 @@
-# OS: MidnightBSD 3.2.1
+# OS: MidnightBSD 4.0.1
 
 http://www.midnightbsd.org/
 
