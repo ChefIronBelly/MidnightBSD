@@ -4,7 +4,7 @@
 
 default install using UFS default sizes
 
-# pkg install xorg-minimal gpu-firmware-kmod libXft xrdb xset xsetroot setxkbmap xmodmap doas
+# pkg install xorg-minimal drm-510-kmod libXft xrdb xset xsetroot setxkbmap xmodmap doas
 pkgconf
 
 # echo permit persist :wheel > /usr/local/etc/doas.conf
