@@ -6,7 +6,7 @@
 #
 
 # remove /usr/games if you want
-PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/games:/usr/local/sbin:/usr/local/bin:$HOME/.bin; export PATH
+PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/palemoon:/usr/local/sbin:/usr/local/bin:$HOME/.bin; export PATH
 
 # A righteous umask
 umask 22
